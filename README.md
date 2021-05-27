@@ -1,1 +1,1 @@
-https://eswaramma24.github.io/sample-project
+https://github.com/eswaramma24/sample-project
